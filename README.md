@@ -5,7 +5,6 @@
 ![Backend](https://img.shields.io/badge/backend-Firebase-yellow?style=for-the-badge)
 
 ## 📖 Project Breakdown
-**This isn't just a login form; it's the gatekeeper to your app.** 🛡️
 
 This project is a lightweight, functional demonstration of **User Authentication** using Google's Firebase SDK. It handles the entire user lifecycle—creating an account, logging in, and redirecting authorized users to the main dashboard.
 
